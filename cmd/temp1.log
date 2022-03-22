@@ -1,0 +1,2 @@
+Mar 03, 2022  23:00:56	[ALERT]	/home/kambar/Desktop/visual_studio/golang/telegram_bot/cmd/main.go:74	Get "http://localhost:8080/contests/by-time-interval?time_from=2022-03-22T23%3A00%3A56%2B06%3A00&time_to=2022-03-22T23%3A59%3A59%2B06%3A00": dial tcp 127.0.0.1:8080: connect: connection refused
+Mar 03, 2022  23:06:30	[ALERT]	/home/kambar/Desktop/visual_studio/golang/telegram_bot/cmd/main.go:74	Get "http://localhost:8080/contests/by-time-interval?time_from=2022-03-22T23%3A02%3A12%2B06%3A00&time_to=2022-03-22T23%3A59%3A59%2B06%3A00": EOF
